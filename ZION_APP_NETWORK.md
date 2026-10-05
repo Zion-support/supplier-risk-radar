@@ -1,12 +1,21 @@
-# Zion App Network — Interlinks for supplier-risk-radar
+# 🌐 Zion AI App Network
 
-Supplier Risk Radar is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
+This app is part of the **Zion AI App Network** — 360+ interlinked AI apps by [Zion Tech Group](https://ziontechgroup.com).
 
-- Live app: https://ziontechgroup.com/supplier-risk-radar/
-- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
-- Batch 53 spotlight (Revenue Protection & Operations Signals): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH53.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch53-sept26.html
+## Batch 75 — Logistics & Supply Chain AI (2026-10-05)
+| App | Repo | Live |
+|---|---|---|
+| Route Optimization AI | [repo](https://github.com/Zion-support/route-optimization-ai) | https://ziontechgroup.com/route-optimization-ai/ |
+| Freight Rate Forecaster | [repo](https://github.com/Zion-support/freight-rate-forecaster) | https://ziontechgroup.com/freight-rate-forecaster/ |
+| Warehouse Slotting Optimizer | [repo](https://github.com/Zion-support/warehouse-slotting-optimizer) | https://ziontechgroup.com/warehouse-slotting-optimizer/ |
+| Delivery Exception Copilot | [repo](https://github.com/Zion-support/delivery-exception-copilot) | https://ziontechgroup.com/delivery-exception-copilot/ |
+| Supplier Risk Radar | [repo](https://github.com/Zion-support/supplier-risk-radar) | https://ziontechgroup.com/supplier-risk-radar/ |
+| Demand Sensing Forecaster | [repo](https://github.com/Zion-support/demand-sensing-forecaster) | https://ziontechgroup.com/demand-sensing-forecaster/ |
 
-## Related revenue protection apps
-[Revenue Leak Detector](https://ziontechgroup.com/revenue-leak-detector/) · [Subscription Dunning Hero](https://ziontechgroup.com/subscription-dunning-hero/) · [Pricing Signal Radar](https://ziontechgroup.com/pricing-signal-radar/) · [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Vendor Onboarding Copilot](https://ziontechgroup.com/vendor-onboarding-copilot/) · [Energy Demand Forecaster](https://ziontechgroup.com/energy-demand-forecaster/)
+## Previous batch — Batch 74: Retail & E-commerce AI
+[Return Fraud Detector](https://github.com/Zion-support/return-fraud-detector) · [Product Recommendation AI](https://github.com/Zion-support/product-recommendation-ai) · [Promo ROI Optimizer](https://github.com/Zion-support/promo-roi-optimizer) · [Cart Abandonment Rescue](https://github.com/Zion-support/cart-abandonment-rescue) · [Stockout Predictor](https://github.com/Zion-support/stockout-predictor) · [Review Response AI](https://github.com/Zion-support/review-response-ai)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com
+## Network
+- Hub & full registry: https://github.com/Zion-support/zion-network
+- Showcase: https://ziontechgroup.com/apps/network.html
+- Free AI Discovery: https://ziontechgroup.com/discovery/ · Plans: https://ziontechgroup.com/en/plans/
