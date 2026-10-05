@@ -4,7 +4,7 @@
 
 - 🌐 Live page: https://ziontechgroup.com/supplier-risk-radar/
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 🔎 Book a $99 Discovery: https://ziontechgroup.com/discovery/
+- 🔎 Free AI Discovery — always online: https://ziontechgroup.com/discovery/
 - 🛠️ All tools: https://ziontechgroup.com/tools/
 
 ## What it does
@@ -12,6 +12,14 @@
 - Disruption alerts from news, weather and logistics signals
 - Dual-sourcing and alternate-part recommendations
 - Supplier scorecards for QBRs and audits
+
+## Batch 75 — Logistics & Supply Chain AI (interlinked)
+- [Route Optimization AI](https://github.com/Zion-support/route-optimization-ai)
+- [Freight Rate Forecaster](https://github.com/Zion-support/freight-rate-forecaster)
+- [Warehouse Slotting Optimizer](https://github.com/Zion-support/warehouse-slotting-optimizer)
+- [Delivery Exception Copilot](https://github.com/Zion-support/delivery-exception-copilot)
+- [Demand Sensing Forecaster](https://github.com/Zion-support/demand-sensing-forecaster)
+- Batch hub: https://ziontechgroup.com/apps/network-batch75.html
 
 ## Related apps in the network
 - [Production Schedule AI](https://ziontechgroup.com/production-schedule-ai/) — https://github.com/Zion-support/production-schedule-ai
